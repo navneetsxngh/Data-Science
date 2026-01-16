@@ -8,3 +8,5 @@ scikit-learn
 imblearn
 statsmodels
 flask
+gunicorn
+mysql-connector-python
