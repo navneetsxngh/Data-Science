@@ -1,5 +1,6 @@
 ipykernel
 openpyxl
+plotly
 numpy
 pandas
 matplotlib
